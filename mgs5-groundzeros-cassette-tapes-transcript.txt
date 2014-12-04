@@ -1,0 +1,1224 @@
+             _        _     ___                  __       _ _     _
+  /\/\   ___| |_ __ _| |   / _ \___  __ _ _ __  / _\ ___ | (_) __| | /\   /\
+ /    \ / _ \ __/ _` | |  / /_\/ _ \/ _` | '__| \ \ / _ \| | |/ _` | \ \ / /
+/ /\/\ \  __/ || (_| | | / /_\\  __/ (_| | |    _\ \ (_) | | | (_| |  \ V /
+\/    \/\___|\__\__,_|_| \____/\___|\__,_|_|    \__/\___/|_|_|\__,_|   \_/
+     ___                           _    _____
+    / _ \_ __ ___  _   _ _ __   __| |  / _  / ___ _ __ ___   ___  ___
+   / /_\/ '__/ _ \| | | | '_ \ / _` |  \// / / _ \ '__/ _ \ / _ \/ __|
+  / /_\\| | | (_) | |_| | | | | (_| |   / //\  __/ | | (_) |  __/\__ \
+  \____/|_|  \___/ \__,_|_| |_|\__,_|  /____/\___|_|  \___/ \___||___/
+
+
+                          Cassette  Tapes  Transcript
+
+
+version 1.0
+CC BY-SA 2014 by M3n747
+m3n747@o2.pl
+
+
+
+
+
+[INFO] Information
+==================
+
+[LGND] Legend
+=============
+
+[CHTPS] Chico's Tapes
+=====================
+[CHTP1] Chico's Tape 1 - March 7-8, 1975: Arrival in Cuba
+[CHTP2] Chico's Tape 2 - March 9-11, 1975: Recordings from his Cell
+[CHTP3] Chico's Tape 3 - March 12, 1975: Escorted to Paz's Location
+[CHTP4] Chico's Tape 4 - March 12, 1975: Interrogation
+[CHTP5] Chico's Tape 5 - March 13-14, 1975: Negotiation
+[CHTP6] Chico's Tape 6 - March 14-15, 1975: Chico's Distress Call
+[CHTP7] Chico's Tape 7 - March 15, 1975: Bargaining with Paz (Final Recording)
+
+
+[AGNTR] Agent's Recording - Secretly Recorded POW Interrogation
+===============================================================
+
+
+[PREMB] Pre-mission Brief: Mission Background & Intel
+=====================================================
+[BRFMT] Mission Tips
+[BRFMO] Mission Objectives: Target Intel
+[BRF01] Brief 1: Nuclear Inspection Demand by the IAEA
+[BRF02] Brief 2: Allowing the Nuclear Inspection
+[BRF03] Brief 3: Preparing Staff for the Inspection
+[BRF04] Brief 4: Word on Paz's Survival
+[BRF05] Brief 5: Chico Vanishes
+[BRF06] Brief 6: Chico's Distress Call
+[MINTL] Mission Intel: US Military Base, Cuba
+
+
+[PAZSL] Paz's Spy Log: Big Boss & Mother Base
+=============================================
+[PSLTD] Paz's Tape is Discovered
+[PSL01] Paz's Report 1: Contact with BIG BOSS (Colombia, November 4, 1974)
+[PSL02] Paz's Report 2: Big Boss
+[PSL03] Paz's Report 3: Big Boss's right-hand man, Kazuhira Miller
+[PSL04] Paz's Report 4: The Peace Walker Project (Costa Rica)
+[PSL05] Paz's Report 5: Mother Base Expands
+[PSL06] Paz's Report 6: Mammal Pod (Peace Walker's AI)
+[PSL07] Paz's Report 7: Battle in Nicaragua
+[PSL08] Paz's Report 8: Infiltration of Mother Base
+[PSL09] Paz's Report 9: Metal Gear ZEKE Completed
+[PSLR1] Communications Record 1 (correspondent unknown)
+[PSLR2] Communications Record 2 (correspondent unknown)
+
+
+[PAZDI] Paz's Diary
+===================
+[PDI01] Paz's 1st Diary Entry
+[PDI02] Paz's 2nd Diary Entry
+[PDI03] Paz's 3rd Diary Entry
+[PDI04] Paz's 4th Diary Entry
+[PDI05] Paz's 5th Diary Entry
+[PDI06] Paz's 6th Diary Entry
+[PDI07] Paz's 7th Diary Entry
+[PDI08] Paz's 8th Diary Entry
+[PDI09] Paz's 9th Diary Entry
+[PDI10] Paz's 10th Diary Entry
+
+
+
+
+
+
+
+
+
+[INFO] Information
+==================
+The following is a transcript of all the tapes found in Metal Gear Solid V:
+Ground Zeroes. Only dialogues/monologues are transcribed, according to in-game
+subtitles. Non-verbal noises and other sounds are omitted.
+
+This document can be freely copied, distributed and adapted under the terms
+of the Creative Commons Attribution Share Alike License.
+https://creativecommons.org/licenses/by-sa/3.0/
+
+
+
+
+
+[LGND] Legend
+=============
+BIG – Big Boss
+CHI – Chico
+HUE – Huey Emmerich
+KAZ - Kazuhira Miller
+MED – a medic
+PAZ – Paz
+SKF - Skull Face
+SLD – a soldier
+??? - not sure
+
+If a word, or a part of it, is enclosed in [square brackets], this means that
+a character says it, but it's not included in the subtitles. Conversely, if a
+word is enclosed in {curly brackets}, that means that it is displayed in the
+subtitles, but not spoken by the character.
+
+When two words are written <like|this>, it means the first one is spoken by the
+character, while the second one is displayed in the subtitles.
+
+
+
+
+
+[CHTPS] Chico's Tapes
+=====================
+
+[CHTP1] Chico's Tape 1, March 7-8, 1975: Arrival in Cuba
+–-------------------------------------------------------
+CHI: I made it ashore. I'm in Cuba. Security looks lighter than I thought.
+     I wonder where Paz is.
+
+CHI: It's dark, but there are soldiers everywhere. Lots of choppers coming and
+     going. Those lights are so bright... Time to get moving.
+
+CHI: I got close to the fence to see if I could spot her. They had a guard
+     posted so I got outta there. Guess security is not so light after all.
+     I'm coming, Paz...
+
+CHI: I'm OK... I'm... I'm OK...
+
+CHI: I think I found her! It's gotta be Paz!
+
+CHI: No no no... They're looking for me.
+
+SLD: Enough. Quit that struggling. Got him secured. It's a kid.
+
+CHI: I'm...
+
+SHI: I got caught. I'm in a cage. They gave me back my recorder... At least
+     whoever finds this will know what happened.
+
+CHI: They're holding others here, too. But still no sign of Paz.
+
+PAZ: Chico?
+CHI: Paz?
+PAZ: Chico...
+
+
+[CHTP2] Chico's Tape 2 - March 9-11, 1975: Recordings from his Cell
+–------------------------------------------------------------------
+PAZ: Don't touch me, you son of a bitch!
+CHI: Paz...
+SKF: She looks weak. We need her alive.
+SLD: Yes, sir.
+
+CHI: ...Paz.
+PAZ: Hm?
+CHI: You're back early today.
+PAZ: Early...
+CHI: The sun is still up.
+PAZ: Si.
+CHI: Y-yeah.
+PAZ: Chico.
+CHI: Yes?
+PAZ: Let us not do this, okay?
+CHI: Huh?
+PAZ: I do not think I want to talk to you.
+CHI: But... I came here to...
+PAZ: Just be quiet.
+CHI: Uh...
+PAZ: Or I'll scream.
+CHI: What the... I don't get it.
+
+
+[CHTP3] Chico's Tape 3 - March 12, 1975: Escorted to Paz's Location
+–------------------------------------------------------------------
+CHI: Paz!
+
+SLD: On your feet!
+CHI: Okay...
+
+CHI: Paz...
+
+
+[CHTP4] Chico's Tape 4 - March 12, 1975: Interrogation
+–-----------------------------------------------------
+SKF: You've got company...
+SKF: Does it hurt? Talk. Talk! You can speak, can't you? Then talk.
+CHI: Okay! Okay...
+SKF: Good boy. Your boss and I go way back. Don't count on him coming to rescue
+     you. If you're a real soldier, you'll find your own way out. But don't
+     bother trying to escape. Let's say you get lucky – and you don't look very
+     lucky – and by some miracle you get out of your cage. Let's even say you're
+     able to elude the guards. Then what? The nearest Cuban border is four miles
+     to the east. Four miles of barren, America-controlled soil. Think you'd
+     make it? You wouldn't get any help from the Cubans. And the border's a mess
+     of live minefields. Think you'd make it through that? With your girlfriend
+     in tow? If you were that lucky, you wouldn't even be here right now. But
+     don't lose hope. There's another way out. For both you and the girl. This
+     way is... much simpler. I ask, you answer. Easy, right? Just tell me what
+     you know.
+PAZ: You're dumber than you look. Wasting your time torturing kids.
+SKF: Tell me about your base.
+PAZ: Chico.
+SKF: Well?
+PAZ: Chico!
+CHI: Hit me.
+CHI: Again!
+SKF: Hmpf. Trying to impress the girl, little man? How cute. All right. Let's
+     try something else.
+CHI: Stop it!
+SKF: She'll get what she deserves. We were comrades, once. But she betrayed us.
+     Deception and deceit. What better proof she's a... real woman. Show him.
+PAZ: Do you realize what you're doing?! Cipher is watching. Let go of me! You'll
+     be next! Your hideous face wi...
+SKF: Repulsive, isn't it? Look. Look carefully. Watch out when you grow up, boy.
+     This is the kind of woman you'll want to avoid. Of course, scars like those
+     make it rather difficult to lead a normal life. I should know. Continue.
+     Talk, and you both go free.
+PAZ: Chico, no! Don't...
+SKF: Only you can stop this.
+PAZ: Don't talk! Chico, please! No!
+
+CHI: Paz. Why?
+
+SKF: Move. Get up.
+CHI: Huh?
+CHI: You heard me. Do you like what you see?
+CHI: ...Huh?
+SKF: I said... Do you like what you see? It's like... fruit. Does she look sweet
+     or sour? A man has to know these things. Time for a taste test. Either you
+     take her – now – or you're strung up next.
+PAZ: Don't worry, Chico.
+CHI: No... No...
+PAZ: It's okay, Chico... You won't hurt me.
+CHI: I don't...
+SKF: Get on with it.
+CHI: I can't...
+PAZ: Chico!
+CHI: No...
+PAZ: Come on.
+
+CHI: ...Out at sea... Staff of 300... but usually there's... ZEKE... Metal
+     Gear...
+SKF: See? That wasn't so hard.
+CHI: You got what you wanted. Aren't you satisfied?!
+SKF: We're halfway there.
+
+PAZ: Chico. Chico?
+CHI: ... Thought you didn't want to talk to me.
+PAZ: There's... one thing I want to say.
+CHI: What...?
+PAZ: I missed you, Chico.
+CHI: ...Yeah.
+PAZ: Come here.
+CHI: Huh?
+PAZ: Closer.
+CHI: ...No.
+PAZ: ...Sorry.
+CHI: Enough already.
+PAZ: You want to do it here?
+
+
+[CHTP5] Chico's Tape 5 - March 13-14, 1975: Negotiation
+–------------------------------------------------------
+CHI: Come on, Paz. Talk! Please, Paz. I'm doing this for you.
+PAZ: Coward!
+CHI: How can you say that?!
+PAZ: Traitor!
+CHI: Don't make me mad! You're only making things worse!
+SKF: Take him back to his cage.
+CHI: What did I do?
+SKF: "Vigyétek a ketrecébe!"
+CHI: Give it back! Give it back!
+SKF: Enough. She's no good to us dead.
+
+CHI: Can I have it back?
+SKF: We've decided to let her go.
+CHI: So... she talked. Told her she should've just gotten it over with.
+SKF: She's going back to your boss. But only her.
+CHI: ...Huh?
+SKF: Those were the terms. She said to leave you here. I suppose she doesn't
+     much care for you, anymore.
+CHI: That... bitch!
+SKF: Now, you've got quite a problem on your hands. When she gets back, what
+     will she say? That you talked? Sold out your comrades? Your... family?
+     You're finished.
+CHI: You mean I... I can't go home?
+SKF: There's very little I can do for you. And I still have need of your...
+     services.
+CHI: Huh?
+SKF: You're going to call your boss – for help. We'll make a recording, play it
+     across public frequency bands.
+CHI: To bring him here...? Yeah, right. You expect me to trust you? I'll never
+     help you.
+SKF: Perhaps. But If you did... I wouldn't mind looking the other way if he did
+     come for you. Take some guards off duty, let you quietly slip away. But...
+     You wouldn't want the girl leaving here alive. She'd have to be eliminated
+     before he came. There's no other way.
+CHI: Mm...
+SKF: I'll leave you to think it over. Chico. Growing up means choosing how
+     you're going to live your life.
+
+
+[CHTP6] Chico's Tape 6 - March 14-15, 1975: Chico's Distress Call
+–----------------------------------------------------------------
+CHI: Snake, it's Chico. I need your help. Cipher's holding me on a U.S. military
+     base in Cuba. Paz is here too. We're at the prison area at the coast. There
+     are some cages to the east of a big building. It's an old, grassy facility.
+     That's where we are. Help me, Snake...
+
+PAZ: Don't... Don't do it...
+SKF: Kid's a natural, don't you think? What do you think Big Boss will do? He'll
+     know it's a trap, but he'll come anyway. That's the kind of man he is.
+PAZ: Don't.
+SKF: Thanks to your report a nuclear inspection team's being sent to their base.
+     The scientist was our way in. It all ends soon, exactly as I've planned.
+     All thanks to you.
+PAZ: Cipher... would never...
+SKF: Yes, Cipher will surely mourn his death. I'll have no choice but to
+     distance myself from the group. And then they'll eliminate you. No one will
+     be left. Think about that. Big Boss or Cipher – you can only save one.
+PAZ: I will never talk.
+SKF: I don't expect you to believe me. The question is, which of the two would
+     you like to give a shot at survival?
+PAZ: What I would like... is to kill you.
+SKF: The feeling is mutual. But... We're secret agents. Restraint is a virtue.
+SKF: Your favorite song. Nicola. Bart. Immigrants, wrongly executed. But their
+     deaths served as a message to others. That ours is a society that murders
+     the innocent. Do you, too, believe your sacrifice will change the world?
+     If so, the time is now. Cipher's been in hiding ever since his grand
+     experiment. No one's seen him in years. All we hear are orders delivered by
+     proxy. Except you. You met with him – face to face – in order to contact
+     Big Boss. Tell me where he is. Where is Cipher... Where is Zero? I've never
+     known choice. Where I was born, the language I speak... I've never had the
+     freedom to choose for myself. But you, right now, are free. Do as you will.
+PAZ: This will save Big Boss?
+SKF: It may.
+PAZ: Will you really kill Zero for me?
+SKF: Not for you.
+PAZ: Alright... Zero is...
+
+
+[CHTP7] Chico's Tape 7 - March 15, 1975: Bargaining with Paz (Final Recording)
+–------------------------------------------------------–----------------------
+???: Give her the shot already!
+MED: Hold her still!
+???: Prep the package.
+
+MED: She's all closed up.
+???: Timer's set per your instructions.
+SKF: We can't have her waking up – or dying – on us...
+MED: I gave her a transfusion, a nutrient cocktail, and an anesthetic.
+SKF: How long does she have?
+MED: 24 hours – same as her cargo. She won't last [much] longer than that.
+     To make room for the bomb, I removed organs she won't need.
+SKF: Almost there. Now for the second one. In a place they'd never look.
+SKF: Hang her up.
+SKF: You shall not see triumph. You've been most helpful. And I have one last
+     use for you. To you I give a magnificent end... But an end nonetheless.
+     The final moment is yours.
+SLD: We heard from the advance team – everything's right on schedule. The C4 has
+     been planted on the legs. Strike team and decoy team are in position. And,
+     we have confirmation that Big Boss'[s] chopper has lifted off.
+SKF: A shame I won't see him. But at least I'll get a look at his body. Time for
+     us to move out, too... But first, let's stop by and see the boy. I want Big
+     Boss to hear his little diary. Hopefully he's still a good listener.
+SKF: Give this to the boy as a reward...and a memento. Make copies.
+SLD: Yes, sir.
+SKF: First Big Boss, then Zero. Liberation is at hand.
+PAZ: Chico. I am borrowing your recorder. Hope you do not mind. I know it hurts
+     right now, but it will all be over soon. Just thinking that helps keep the
+     pain away. Chico... I would do anything to get you out of here. It is
+     funny... I have never helped anyone else before, only Cipher. That is the
+     truth. I... I never imagined you would come for me. I was not very nice at
+     first, I know. But I did not mean it. I...I was afraid they would try to
+     use you, somehow. But, to be honest... Having you with me here put my mind
+     at ease. I hope that does not sound selfish. I thought I would never make
+     it. But together, I think we can. I am watching you sleep as I record this.
+     You have made me believe. That I will make it out of here... And that – no
+     matter what happens – it will not be the end for me. Thank you, Chico.
+
+
+[AGNTR] Agent's Recording - Secretly Recorded POW Interrogation
+–--------------------------------------------------------------
+SKF: I needed this place, to listen to the words people had to say. That's
+     something they could never understand. You've done your part. You told us
+     plenty. You've known the pain of ages. And even now you think, as any
+     person would, that this can't be happening. Is it education? Morals, faith?
+     Just the imprint of a lifetime of stories? Face to face with oblivion,
+     which is where you are, and you still think that help is coming. The world
+     you were born into is made to save you. Isn't that right? Of course it is.
+     Everyone knows that. Until your last breath, you know it. Without the
+     slightest chance or reason left to them, humans are capable of hope. I'm no
+     different. But for one thing. When my time came calling I didn't die. My
+     family died, my country died, but they didn't take me with them. All Hell
+     took from me was this skin, this outer peel that marked me "human."
+SKF: My village had an oilseed field and a fine factory. Every day my friends
+     and I would see our parents at work in that factory. That's all I had. All
+     the world I knew. Then one day, aircraft came droning in from some far-off
+     sky. The factory was bombed. Some... "spies" had told them we were making
+     weapons. The building burned. We tried to flee outside. The crowd blocked
+     the exit. The crowd of people. Hot. So hot. I tried to push through their
+     legs and get ahead, but a boot in my stomach put me on the ground. The
+     smoke of them burning filled me up. I heard my name called... but not for
+     long.
+SKF: At the infirmary they carried me to, a nurse in the corridor saw me and
+     remarked, as if it happened every day: "They should let the poor thing
+     die." Those are the only words of my mother tongue I remember. It was the
+     language of my village. Until foreign troops invaded. Then the last
+     identity I had left – the words I spoke – were pulled from me. My skin
+     would never feel anything again. This face would be burned again, in
+     torture, at foreign hands, but I, I still writhe in that burning factory.
+     Doused in scalding rapeseed oil. That's all I have to feel, that pain – all
+     I have to remind me I exist here.
+SKF: Those "spies" reported well. We made weapons all right. As cartloads of
+     rifles came in from the battlefields, we fixed them up and sent them back
+     out. So our country could win. Or rather, so that little world we knew
+     could continue. I came to realize I mustn't die. I'm their last hope, all
+     those who perished and left me here. I have to accomplish something. If I
+     don't, their will will be swept out of this world.
+SKF: So? Do you see me now? Tell me. What do you see? Hmm? You have eyes. What
+     do your eyes see? Yes, that's right. You see a skull face. You see me. This
+     skull is who I am. My mark, my proof of humanity. I have no country, no
+     language, I have no face, but I haven't lost my skull. So I told myself...
+     The pain and effort that keep me alive will never know relief, never bear
+     fruit, never be repaid. I know that, but I told myself to focus on some
+     hope, a nonexistent hope to guide me through this burning world. A hope –
+     call it a dream. A melancholic delusion. As the pressures within me stretch
+     me to bursting, and I force myself not to cry out, though the words I
+     thought were carved into me are gone, and all I knew is dead. I know how
+     you feel. I've felt that. So show me. That I'm not the only one. That you
+     too can return to this world, for revenge. Do you see me. Don't die. Don't
+     die!
+
+
+
+
+
+[PREMB] Pre-mission Brief: Mission Background & Intel
+=====================================================
+
+[BRFMT] Mission Tips
+–-------------------
+KAZ: This is a one-man infiltration mission, Boss. Equipment is the bare
+     essentials. Anything else will be OSP. The target location is a prison camp
+     in a U.S. military base. Those Marines have the place locked down tight.
+     Your only backup will be one extraction chopper. We can't send anything
+     else.
+BIG: You won't need to.
+KAZ: Again, this is infiltration – a sneaking mission. Your number one priority
+     is remaining undetected. Use discretion before engaging any guard you
+     encounter. Be mindful of their sensory perceptions – sight, sound, smell...
+     and pain. Fortunately, these atmospheric conditions will continue until
+     dawn. That should provide you with some cover.
+BIG: Least the weather's on my side.
+
+
+[BRFMO] Mission Objectives: Target Intel
+–---------------------------------------
+KAZ: Your mission objective is to rescue Chico and Paz. According to Chico,
+     they're both being held at an old prison facility. Recon from the Intel
+     Unit supports this, so it's safe to assume that's where they are. Once
+     you've gotten them to the RV, call in the extraction chopper. I'll monitor
+     the situation and offer guidance from here. But you'll be the one in the
+     field. How you handle this mission is entirely up to you, Boss.
+
+
+[BRF01] Brief 1: Nuclear Inspection Demand by the IAEA
+–-----------------------------------------------------
+KAZ: Snake, yesterday, we received official communication from the IAEA. It
+     says, "It has come to our attention that your organization recently
+     purchased nuclear fuel from Uzbekistan authorities. We request permission
+     to inspect your facilities."
+BIG: What a load of bullshit.
+KAZ: Yeah. They're after Metal Gear ZEKE's nuclear warhead. I'm betting this is
+     payback from Cipher after Paz's leak.
+BIG: Using the UN?
+KAZ: There's no telling how much influence they have. But the IAEA can only do
+     inspections in countries that are party to the NPT.
+BIG: And we're not a country.
+KAZ: Exactly. We haven't signed a safeguards agreement with the IAEA over
+     peaceful nuclear use, and we're not obligated to report any nuclear
+     material we have, nor information about any nuclear facilities. The IAEA
+     has no authority to inspect us.
+BIG: But despite all that...
+KAZ: That nuke's our last line of defense. We don't want to announce we have it
+     until the world is preparing to wipe us off the map. Until then, we let
+     everyone think we're just a private army with conventional firepower.
+BIG: What's Huey's take?
+KAZ: That the problem's how to hide the nuke and Metal Gear. But I gotta tell
+     you, he was all for it.
+BIG: I see... But there's no way we can have the IAEA poking around here.
+KAZ: So what do we do? Ignore [th]'em?
+BIG: Send them an official letter of refusal. Say that we're a private
+     organization, and we've done nothing to attract this suspicion.
+KAZ: You got it.
+
+
+[BRF02] Brief 2: Allowing the Nuclear Inspection
+–-----------------------------------------------
+HUE: We finished ZEKE's waterproofing reinforcement yesterday. The day after
+     tomorrow we'll be done installing the main depth control tank, the
+     compressed air tank, and the attitude control propeller pod.
+KAZ: Huey.
+HUE: If the underwater test goes well, next week we'll try the 300-foot seabed
+     depth.
+KAZ: Drop the act, Huey. How did we end up agreeing to the nuclear inspection?
+HUE: ... Because after you sent that letter I told them, "After careful
+     reconsideration we agree to your request." And frankly, we should be
+     inspected. This is our chance. If they come and go without discovering the
+     nuke, we can tell the world we're clean. Of course it's risky, and we'll
+     have to make sure everything's perfect. But it'll be worth it.
+BIG: Huey, can they do an inspection without going through the Board of
+     Governors?
+KAZ: We contacted the IAEA's admin branch, and they said there's no record of us
+     being brought up at any of the Board's meetings.
+HUE: I'd say... probably a preliminary inspection to determine whether we should
+     be referred to the Board. So it's bound to be a small inspection team, and
+     they won't be here that long. Don't worry, leave everything to me.
+BIG: Has the media gotten wind of this?
+HUE: Yeah. Two major Western networks want to do stories on us. I'd planned on
+     saying yes.
+KAZ: What?! You want to broadcast this place to the world?
+HUE: That's why I agreed to the inspection. This is a golden opportunity. We can
+     use the media to prove to the world we don't have a nuke. Besides, even if
+     we said no, it would just be delaying the inevitable.
+BIG: Kaz, our hands are tied now. Start getting the place ready.
+HUE: Thanks, Boss.
+BIG: Don't get the wrong idea. You've set it up so that any more "changes of
+     heart" will arouse suspicion, that's all.
+KAZ: ZEKE stays, but we'll have to move all other AFVs to shore. Any potential
+     troublemakers can go with them for some mandatory R&R. Sound good, Boss?
+BIG: Just do it.
+
+
+[BRF03] Brief 3: Preparing Staff for the Inspection
+–--------------------------------------------------
+BIG: About the inspection. What do we tell the men?
+KAZ: The truth – what else? The one thing we don't need to worry about is anyone
+     here spilling the beans about ZEKE.
+BIG: Good point. What about the Sandinistas? There's still quite a few of them
+     left on the base.
+KAZ: I hate to say it, but it won't look good having Soviet Bloc personnel
+     here... The problem is, moving a group that size in a hurry would look even
+     worse.
+BIG: At least Amanda's on assignment in Cuba. They'd recognize her. She should
+     stay put for now.
+KAZ: All civilians, save Huey, will have to return to their countries.
+BIG: Even your Parisienne?
+KAZ: Of course. We'll get her whatever papers she needs. Dr. Strangelove's
+     departure came at a perfect time. The less ZEKE-related staff here the
+     better.
+BIG: Wait, she left?
+KAZ: That's right, you were away on a mission. She left last week. There's
+     nothing cooking in AI weapons research, and ZEKE is complete. There was
+     really no reason for her to hang around.
+BIG: I'm surprised Huey let her go that easy.
+KAZ: Yeah, his crush on Strangelove was never much of a secret, huh. He followed
+     her everywhere while ZEKE was in development. Boy, would she get pissed.
+     But he does have a lot on his mind right now. "I've got bigger issues to
+     deal with"... That's what he said.
+BIG: That's the spirit, Huey.
+
+
+[BRF04] Brief 4: Word on Paz's Survival
+–--------------------------------------
+KAZ: Ten days ago, we got reports that Paz was still alive.
+BIG: She survived?
+KAZ: She was rescued by a Belizean fisherman who found her drifting in the
+     Caribbean.
+BIG: So what's the plan? Silence her before we're compromised?
+KAZ: No, I've got something else in mind. Our "friends" at Cipher suspect Paz
+     could be a double agent. She's being held for interrogation at a camp on
+     the southern tip of Cuba.
+BIG: Black site – nice. A slice of American pie on communist soil, and out of
+     U.S. legal jurisdiction.
+KAZ: The upcoming inspection of Mother Base has to be connected somehow. The
+     timing's too perfect.
+BIG: The UN's nuclear inspection...
+KAZ: My guess is they're trying to corroborate Paz's leak.
+BIG: We're an army without a nation.
+KAZ: Word of our capabilities gets out, and we'll have the whole world out to
+     shut us down. Having an American private intelligence agency involved's
+     bad news. Cipher's the ones who sent Paz to us in the first place.
+BIG: She knows their true nature.
+KAZ: Right. Paz is our only link to Cipher. If she's still alive... ...We need
+     her on our side. If not us, who else is gonna rescue that bitch?
+BIG: When do we do it?
+KAZ: The inspection comes first. We'll deal with this afterward[s].
+BIG: Do the men know?
+KAZ: Word has started to spread. The information came from Cuba through Amanda.
+     One of the base personnel used to belong to El Frente. I'll tell everyone,
+     "We don't concert ourselves with the survival of enemy spies." We need them
+     focused on the inspection. And if we get her back here and she isn't...
+     cooperative, there's still plenty of room for her in the ocean.
+BIG: Works for me. What about Chico? He had a chance to stop Paz from hijacking
+     ZEKE, and he blew it. He's carried that guilt ever since. {The} kid really
+     did care about her.
+KAZ: Chico... It's hard to say how he'll react.
+BIG: Have Amanda call him out to Cuba. He shouldn't be here right now.
+KAZ: Good idea. They haven't seen each other in a while. {A} little time with
+     big sis and he'll forget all about you-know-who.
+
+
+[BRF05] Brief 5: Chico Vanishes
+–------------------------------
+KAZ: What? Still no sign of Chico?
+BIG: What's going on?
+KAZ: It's Amanda in Cuba. Our resupply package arrived, but Chico wasn't with
+     it.
+KAZ: Relax, Amanda. I'm sure he's just... exploring Havana or something. First
+     time in the big city, he could've gotten carried away...
+BIG: Kaz, wait. The boat Chico was on – did it stop anywhere before it got to
+     Havana?
+KAZ: Yeah, it had to refuel at Santiago de Cuba... You don't think... Aw shit,
+     you gotta be kidding me! He does this NOW?!
+BIG: It's 60 miles from Santiago to the prison camp. Chico used to cross the
+     mountains with the older Sandinistas like it was nothing. He'll make that
+     in three days.
+KAZ: Still, even if he does find his way there...
+BIG: You know how reckless he can be. Chico thinks we've abandoned Paz. That's
+     why he's doing this.
+KAZ: ... We'll start by having the Intel detachment in Cuba look for him. We
+     can't let him be captured.
+
+
+[BRF06] Brief 6: Chico's Distress Call
+–-------------------------------------
+CHI: There are some cages to the east of a big building. It's an old, grassy
+     facility. That's where we are. Help me, Snake...
+KAZ: It's a setup.
+BIG: We have no choice.
+KAZ: Yeah. If Chico talks, he could blow the nuke cover-up. We can't hold off
+     until the inspection's over.
+BIG: When can we be ready?
+KAZ: It'll take at least 16 hours to confirm the flight path and prep a bird.
+     The Intel Unit has started reconning the area.
+BIG: Sounds like I'll have to miss the inspection.
+KAZ: Boss, we'll just have to send someone else to get them out.
+BIG: No, I'll go.
+KAZ: Yeah. Chico and Paz would only take orders from you anyway. And we can't go
+     taking on those Marines at the base head-on. It's gotta be off-the-rader...
+     And it's gotta be you.
+BIG: Hold down the fort, Kaz.
+
+
+[MINTL] Mission Intel: US Military Base, Cuba
+–--------------------------------------------
+KAZ: Snake. You can forget about civil liberties where you're headed. God only
+     knows what they'd do to you if you got caught. Do not let that happen. The
+     Cubans leased the land to the U.S. as a gesture for helping them gain
+     independence from Spain. The deal remains in effect until both countries
+     agree to dissolve it or the U.S. abandons the land. That's why America
+     still operates the base even after la revolución. Problem is, it's leased
+     land.
+BIG: Meaning it isn't American soil, so the U.S. Constitution doesn't apply
+     there. That allows them to withhold its civil rights protections.
+KAZ: Yeah, that's Uncle Sam's excuse. The area was originally only for detaining
+     refugees from countries like Cuba and Haiti. But a few years ago, the CIA
+     and its like started using it as a black site. Enemies of the state are
+     renditioned there and subjected to extreme forms of interrogation. You can
+     bet Cipher had a hand in that. As you'd expect, American and other Western
+     human rights organizations aren't allowed anywhere near the place. What
+     happens there disappears down the memory hole.
+BIG: Who knows what they're doing to Chico and Paz.
+KAZ: I'd like to interrogate her ourselves, but if worse comes to worst, make
+     sure she's dead. Chico, on the other hand, we have to bring back – fast.
+     He knows too much about us.
+BIG: Kaz.
+KAZ: The area's surrounded by mines placed by both the U.S. and Cuba, making
+     escape on foot impossible. You're heading onto the lion's den, Snake.
+     Don't take this one lightly. Come back in one piece.
+BIG: Yeah.
+
+
+
+
+
+[PAZSL] Paz's Spy Log: Big Boss & Mother Base
+=============================================
+
+[PSLTD] Paz's Tape is Discovered
+–-------------------------------
+BIG: I heard about Paz's tapes...
+KAZ: Yeah. Why do you think she'd leave 'em behind? And that diary...
+BIG: Whatever it was, her commitment was wavering – that much <is|was> clear.
+KAZ: So she was leaving clues? To help us...?
+BIG: No way to know for sure. And the ocean's not giving her back.
+
+
+[PSL01] Paz's Report 1: Contact with BIG BOSS (Colombia, November 4, 1974)
+–-------------------------------------------------------------------------
+PAZ: November 4, 1974, at the outskirts of Barranquilla, Colombia. Contact with
+     Big Boss successful. Zadornov posed as my professor, but Big Boss took one
+     look and knew he was KGB. However, he does not seem to suspect me. To him,
+     I am just a peace-loving student, and another victim of the CIA. We asked
+     him to drive the CIA out of Costa Rica. To him, this means betraying his
+     country. His forces are smaller than anticipated. They drift from place to
+     place, with nowhere to call home. That provided us an opportunity, so we
+     seized it. Zadornov offered them a plant off the Costa Rican coast – to
+     use as a base. As expected, Miller jumped at the chance. Although initially
+     reluctant, Big Boss came around when Zadornov played him the tape. All
+     because the voice on it sounded like his mentor, The Boss.
+
+
+[PSL02] Paz's Report 2: Big Boss
+–-------------------------------
+PAZ: Naked Snake, the man who once saved the world from the brink of nuclear
+     war. Awarded the title of "Big Boss" for his service, he later became a
+     mercenary, abandoning both his title and his country. To him, that "honor"
+     was steeped in the blood of The Boss, the mentor he was force to eliminate.
+     Exceptionally charismatic, he possesses unparalleled combat and
+     intelligence gathering abilities. His only discernible weakness is...her.
+     This operation hinges on how effectively we can exploit that.
+
+
+[PSL03] Paz's Report 3: Big Boss's right-hand man, Kazuhira Miller
+–-----------------------------------------------------------------
+PAZ: Kazuhira Miller is Big Boss'[s] lieutenant. Half Japanese, half American,
+     he once served in Japan's Self-Defense Force. Though he and Snake first met
+     as enemies, they discovered a common bond and together built their private
+     army, with Miller directing business and administrative affairs. He comes
+     off as shallow, but his true intent is hard to read. I must be careful. All
+     that is clear is his infatuation with Big Boss.
+
+
+[PSL04] Paz's Report 4: The Peace Walker Project (Costa Rica)
+–------------------------------------------------------------
+PAZ: With East and West fighting over its control, Central America is now the
+     most contested region on earth. CIA Central American Station Chief Coldman
+     has developed Peace Walker, a fully AI-automated, fail-deadly nuclear
+     launch system with which he aims to reignite the Cold War. Snake's new
+     objective in Costa Rica is to prevent that. Zadornov's... or should I say,
+     the KGB's plan is to play the two sides against each other, turning the
+     entire region Red. Not one of the three parties realize they are all just
+     pawns in Cipher's hands. Cipher watches all.
+
+
+[PSL05] Paz's Report 5: Mother Base Expands
+–------------------------------------------
+PAZ: Mother Base has developed rapidly since being established in the Caribbean
+     Sea. They recruit more personnel daily, and already their mercenary
+     services are turning a profit. Big Boss'[s] leadership and charisma and
+     Miller's business acumen drive this impressive growth. Furthermore, joining
+     forces with a faction of the FSLN has expanded their power even more. They
+     have even commenced their own weapons development program. All is
+     proceeding according to Cipher's will... I could not be more pleased.
+
+
+[PSL06] Paz's Report 6: Mammal Pod (Peace Walker's AI)
+–-----------------------------------------------------
+PAZ: Snake's pursuit of Peace Walker led him to an A.I. modeled after The
+     Boss'[s] thought patters. It was incomplete, but – somewhat ironically -
+     making contact with Snake was the necessary finishing touch. Meanwhile,
+     the scientist behind Peace Walker's locomotive control, Huey, defected
+     to Snake's army. His presence has greatly accelerated weapons development
+     at Mother Base.
+
+
+[PSL07] Paz's Report 7: Battle in Nicaragua
+–------------------------------------------
+PAZ: I failed to anticipate Coldman's madness, but nuclear was was averted.
+     However, this was only after The Boss A.I. on board Peace Walker sank
+     itself into the bottom of the lake... in what could be likened to suicide.
+     The Boss laid down her gun, choosing to sing for peace instead. And Snake,
+     himself a gun, parted ways with her. In doing so, he reclaimed the title he
+     once abandoned. He is Big Boss.
+
+
+[PSL08] Paz's Report 8: Infiltration of Mother Base
+–--------------------------------------------------
+PAZ: Zadornov has been detained. Since this leaves my cover identity without a
+     guardian, the Mother Base staff has taken me in. I <am|'m> now better
+     placed than ever to monitor their internal affairs. Everything continues to
+     unfold according to plan. The developer of The Boss A.I., Dr. Strangelove,
+     has also come to Mother Base. With her and Huey's expertise, they can now
+     develop a weapon capable of matching Peace Walker.
+
+
+[PSL09] Paz's Report 9: Metal Gear ZEKE Completed
+–------------------------------------------------
+PAZ: Development of the bipedal weapon is now complete. They call it Metal Gear
+     ZEKE. It stands there like some sort of...mystical guardian. The soldiers
+     gaze on it with pride and reverence. Big Boss has elected to arm it with a
+     nuclear weapon. As an army without a nation, they seem to feel the need for
+     a deterrent against whatever the world might pit against them. It <is|'s> a
+     dangerous gambit. Why do such a thing...? Their nuclear strategy differs
+     from the Americans and Soviet Union. The superpowers deter attack by
+     revealing their nuclear arsenals to one another. Snake and his men know
+     that if they were to go public with this, the whole world would unite
+     against them. Business would dry up overnight. So, they do not plan on
+     revealing the nuke until necessary. This "ace-in-the-hole" approach is
+     their idea of a nuclear strategy. Wielding a deterrent, all the while
+     unable to reveal its existence. I wonder if Snake sees how vulnerable this
+     makes them...
+
+
+[PSLR1] Communications Record 1 (correspondent unknown)
+–------------------------------------------------------
+PAZ: Yes... Hijack ZEKE? Yes, I did indicate that to be our leverage... But I
+     cannot imagine his agreeing to that now. But... Did you not raise them to
+     safeguard yours "governance without borders"...? No, no... I have not
+     forgotten. "Cipher watches all."
+
+
+[PSLR2] Communications Record 2 (correspondent unknown)
+–------------------------------------------------------
+PAZ: Yes, things are...proceeding. But modifying ZEKE has not proven easy. I'm
+     using Zadornov to buy some time. No, I have not forgotten what you said.
+     However... Well, forgive me for asking, but... this is you I am speaking
+     to, isn't it... Cipher?
+PAZ: I must... I will fight Big Boss. The world must be ruled by a single
+     will... To defy Cipher is a fate worse than death.
+
+
+
+
+
+[PAZDI] Paz's Diary
+===================
+
+[PDI01] Paz's 1st Diary Entry
+–----------------------------
+PAZ: As of today I will be living here at Mother Base. Now my real trial begins.
+     Zadornov was paying my room, board, and tuition, but he has since been
+     captured. I told the man that with no more money from the KGB, I could no
+     longer afford school. ...He bought my story, and when I said I would be
+     willing to work, he took pity on me and let me stay. For some reason Miller
+     really plead my case. That was helpful, but the man is still a fool. His
+     men are no better. They think their training makes them strong, but that
+     kind of strength is nothing in the face of true power. And better yet, they
+     wait on me hand and foot, believing I am just a schoolgirl. Looks like I
+     won't be working too hard, after all. Just today, while scouting out the
+     living quarters, I saw a group of them in the corner of the deck making a
+     fuss. Going over for a look, I saw they were feeding a kitten. A bunch of
+     grown, hard men, and they are the ones acting like schoolgirls! "Look,
+     isn't he cute?" What is wrong with them? Disgusted, I just nodded and
+     smiled. I must stay in character, after all. I indulged their chit-chat for
+     a few moments, then one of them asked me to give the thing a name. They had
+     just taken it from its mother. I named it Nuke. I improvised some nonsense
+     about how "our compassion for living things can help prevent wars." The men
+     gave me a little fish. I held it out in my palm, and the kitten happily ate
+     it up. What a pathetic... feeble creature. It sickens me.
+
+
+[PDI02] Paz's 2nd Diary Entry
+–----------------------------
+PAZ: Today Chico invited me to go fishing with the soldiers. I suppose finding
+     one's own food does have its merit, but I prefer not to be involved in such
+     a degrading task. And their prattling on about fishing being "fun" is
+     nonsense. I'm not here to find playmates. Nevertheless, distasteful as it
+     was, I went along in order to maintain my cover. Chico thrust a fishing
+     pole into my hands, and we went up onto the deck, where several soldiers
+     had gathered. They welcomed us warmly. With so few women aboard Mother
+     Base, I'm treated like a princess. No one suspects I'm neither a teenager
+     nor a student. It was nice and sunny, with a gentle breeze and waves. As I
+     cast my line and waited for a bite, the soldiers began to ask me all sorts
+     of questions. As always, I answered according to our pre-defined scenario,
+     feigning a smile. As I sat there feeding them lies, the fish began to bite,
+     and the soldiers began to focus on their prey. Chico had his bait stolen by
+     a fish, and got so angry that he stood up and nearly fell into the sea.
+     Everybody laughed. It almost made me want to join in, too. At some point, I
+     got a bite myself. The instant after I felt that first gentle tug, the fish
+     yanked the line with astonishing strength, and I let out a cry of surprise.
+     I thought it was going to be huge. It was my first time fishing, and I was
+     a bit flustered, so the soldier beside me helped by supporting the pole
+     from behind. "Reel it in!" they shouted. I nodded, turning the handle as
+     fast as I could. I wondered what kind of fish live below the surface, and
+     thought back to the deep-sea dives I had to do as part of training. Those
+     were difficult days, but I remember finding the multi-colored fish gliding
+     through the water incredibly soothing. After a hard fight, I pulled it up.
+     To my surprise, it wasn't even half a vara . Rather anti-climactic. But I
+     wasn't doing it for fun, so I wasn't the least bit disappointed. Nuke was
+     hovering nearby with an expectant look on his face, so I gave the fish to
+     him. All in all, a thoroughly wasted day.
+
+
+[PDI03] Paz's 3rd Diary Entry
+–----------------------------
+PAZ: Preparations are coming along nicely. No one suspects me of being the one
+     to let Zadornov out of his cell. Today, Amanda and I taught Cecile how to
+     make gallo pinto. It is a simple, home-cooked dish consisting of black
+     frijoles mixed with arroz. It is well-known throughout Central America, not
+     just in Costa Rica, so it is no surprise that a Nica like Amanda would be
+     good at making it. But I was raised in the States from a very young age and
+     can hardly even remember my mother's gallo pinto. Having to make chit-chat
+     with that clueless bird-lover and the so-called revolutionary was
+     excruciating. And - clueless or not - I will need to be especially careful
+     around Cecile, the one who actually recorded that tape. Thankfully, Miller
+     and his men seem to believe I mistook the tape I found for one my friend
+     made... In any case, one can never be too careful. ...Anyway, the three of
+     us minced garlic and herbs, then cooked them in a pot with frijoles we'd
+     soaked overnight. While waiting for them to cook, we sautéed onions and
+     arroz in a frying pan. Cecile worked the frying pan according to Amanda's
+     directions, but seemed a bit glum. She does have a knack for cooking,
+     though - she is French, after all. We added water to the pan, and watched
+     the arroz begin to steam. While we waited, Amanda shared memories of her
+     mother with us. They had been separated because of Somoza, but the taste of
+     her mother's cooking was still fresh in her mind. When the frijoles were
+     ready, we drained the water, stir-frying them with the rest of the
+     vegetables. Quite a complicated process for home-cooking. Nonetheless, it
+     kept them occupied. The longer we sat and talked, the greater the chance of
+     my arousing their suspicions. With women, it is not enough to just to bat
+     your eyelashes and giggle. It takes a lot of effort to divert attention.
+     When the arroz was done cooking, we folded it into the frijoles and added
+     salsa, stirring the mixture as it simmered. At this point, for some reason
+     the conversation turned to romance. Why does it have to be that way
+     whenever women get together and chat? Cecile fancies herself to be well-
+     versed in such matters, and gave Amanda all sorts of advice. It was
+     harmless enough until, to my irritation, she began pestering me whether
+     there was anybody I "liked." "Not right now," I said, trying to dodge the
+     question. But she pressed on. "It's Snake, isn't it?" I gritted my teeth
+     and played it coy: "Maybe." Cecile nodded and giggled, "He <is|'s> pretty
+     sexy, isn't he?" What a ditz. It's all I can manage to just survive. The
+     thought of romance has never once crossed my mind. I've no interest in that
+     kind of man. Soon enough, a rich aroma began to fill the room - the gallo
+     pinto was ready. Nuke came over and rubbed up against our legs, looking for
+     a handout. Unfortunately, it was not the kind of food a cat would like. We
+     let a few of the soldiers have a bite and then headed off to the mess hall.
+     The home-cooked flavor we'd achieved was a big hit with the men of MSF. Not
+     that we are trying to impress them or anything. Even I could manage a dish
+     like that. Snake enjoyed it, too... Let me make this absolutely clear: I
+     have no interest in that man.
+
+
+[PDI04] Paz's 4th Diary Entry
+–----------------------------
+PAZ: Futbol, or "soccer" as it is known in the states, is extremely popular
+     here. It has not caught on yet in the US, but it has legions of rabid fans
+     all across Latin America. These fans can get so rowdy that it is commonly
+     believed El Salvador and Honduras went to war in 1969 over scuffles in a
+     soccer match. In reality, tensions between the two countries were already
+     high. The match was merely one of the sparks that set them off. But these
+     people are so passionate about the sport that the story seems plausible.
+     Predictably, many of the soldiers here are fans. They have apparently
+     divided themselves into Costa Rican and Nicaraguan teams and started
+     playing each other. To play, you need a ball and two goals. The R&D team
+     built and set up simple goals on the deck. I had absolutely no interest,
+     but Chico insisted that I come and watch. It was not a proper match by any
+     means - the pitch was not even regulation size - but the players and
+     spectators alike got pretty excited. They banged empty cans and shouted
+     cheers through the handmade megaphones. It almost felt like Carnival. Huey,
+     the referee, blew a whistle to start the match. The soldiers' training has
+     left them in excellent physical shape. But they lacked the honed skills of
+     professionals, and their play was quite rough. Midway through, one of the
+     men collided with another. They started shouting at one another, but Huey
+     stepped in. "I thought we had forsaken our countries, become one with the
+     earth," he said, quoting Snake. "We're not competing for national pride
+     here. And we are not fighting for the good of any one country." "This is
+     not a war. Soccer <is|'s> a peaceful sport, am I right?" The soldiers
+     nodded. They know the pain of war, and they share Snake's vision. Perhaps
+     that is why this all resonates with them. Team Costa Rica was down a man,
+     and somehow I was picked to fill in. Costa Rica had the advantage up until
+     that point - I suppose Huey wanted to keep it balanced. The soldiers agreed
+     with Huey's call. Maybe the Costa Rican players felt an even match up would
+     be more fun, too. I could not be bothered to run at first, but chasing the
+     ball out there in the hot sun, I was soon drenched in sweat. Before long I
+     found myself actively seeking out the ball, partially out of desperation. I
+     picked up a loose ball deep on the opponents' side of the field. Even
+     though he's Nicaraguan, Chico cheered me on, yelling "Go for it! Shoot!" I
+     launched that ball as hard as I could, only to have it blocked by the
+     keeper. Disappointment only increased my determination. In the end, I
+     didn't score a single goal, and Costa Rica gave up its lead. It was really
+     close, though. We congratulated each other on a good match and sprawled out
+     in the shade on the deck, exhausted. The ocean breeze felt so nice on my
+     sun-soaked body. Nuke came over - it is one of his favorite spots - and
+     stretched out next to me. And together we watched fluffy white clouds drift
+     lazily across the clear blue sky.
+
+
+[PDI05] Paz's 5th Diary Entry
+–----------------------------
+PAZ: It was lovely out today, so I decided to sun myself in a lounge chair up on
+     the deck when Strangelove came up to me. Despite the heat, she was in her
+     usual long sleeves and pants. I waved at her. She looked away and mumbled,
+     "H-hello there. Fancy meeting you here." I asked if she needed anything,
+     feeling her eyes creeping up and down my body, like she was savoring it.
+     Finally she swallowed and said, "You have such beautiful skin..."
+     Bewildered, I shook my head and said, "No, not at all." I'd heard rumors
+     that she was a... lesbian. But she couldn't be after me, could she? She
+     continued to stare and said, "No, it is beautiful. But you must not let
+     yourself get so tanned." And then she took my hand in hers. "What is wrong
+     with a little sun?" I asked, trying to cut the conversation short. But she
+     shook her head violently. "No! You mustn't! A young lady should take better
+     care of her skin!" She was acting strangely, now, as if aroused. She
+     lectured me on the perils of tanning - how it ages skin, causing wrinkles
+     and spots, and in the worst cases even skin cancer. I knew already that
+     tanning could cause spots, but I thought only pale-skinned Anglo-Saxons had
+     to deal with that. Having a scientist tell me it causes aging, though -
+     that spooked me a little. If I am to keep playing the teenager, I will have
+     to start paying more attention to my skin. Sensing my anxiety, she took a
+     small tube from her pocket. She said it was the sunscreen she always used.
+     She told me to keep it. I didn't know what to say. I was more than happy to
+     take it, but exactly what were her intentions? Was she merely being nice?
+     Or is she really into me? Either way, there was no reason to refuse, I
+     suppose. I have undergone training. An out-of-shape woman does <not|n't>
+     pose any real threat to me. Having power means not being afraid. It is the
+     same on a global scale: a country with nukes can dictate terms to a country
+     without them. I thanked her and took the tube. Then she offered to put some
+     on for me. She squirted some lotion onto her fingers and began rubbing it
+     into my chest. It happened so suddenly, and I was so taken aback that I did
+     not even think to protest. She caressed my stomach with her long, white
+     fingers, then slid them upwards between my bikini-clad breasts. "Wha-?
+     Wait..." I sputtered as her moist eyes met mine. She was beautiful...
+     Somehow, I found myself captivated by this woman more than ten years my
+     elder. "Hold still," she whispered in my ear. I nodded silently, unable to
+     refuse. My body went limp, motionless, as if in a trance. Gently,
+     carefully, she rubbed the lotion all over my entire body. I shouldn't have
+     enjoyed it. And yet I could not help myself. For a moment, I was
+     spellbound. That woman is dangerous... I had better watch myself.
+
+
+[PDI06] Paz's 6th Diary Entry
+–----------------------------
+PAZ: Protecting one's health is an important part of any agent's job, but
+     despite my best efforts, I have caught a cold. Now that I think about it,
+     Mother Base's numbers are on the rise, with soldiers coming from all
+     different places and backgrounds. It is no wonder, then, that sooner or
+     later someone would bring in a virus. That said, what I have got is just a
+     common cold. The medical team said I'd need a few days' rest, so I've been
+     restricted to my room and put on bed rest. I thought I'd gotten used to not
+     having anyone around to relate to... But at times like these, being alone
+     is just... miserable. All I could do is lay there and stroke Nuke's back,
+     trying to take my mind off how bad I felt. Nuke just sat there, not making
+     a sound. But I did have visitors: Amanda and Chico, Huey, Cecile, Miller,
+     and a few of the soldiers I've become relatively close to. Amanda made me a
+     soup with herbs she said were good for a cold. Miller told me to take it
+     easy. "I will sing you a lullaby," he said, then broke out a guitar and
+     sang some incomprehensible song in Japanese. I did not need to understand
+     the lyrics to know he's an awful singer. Then he said, "You know what is
+     good for a cold? Suppositories! Here, I'll show you..." He began to take
+     off his pants, so I threw my tissue box at him to make him go away. Then
+     Strangelove showed up, saying she had some miracle Indian cure. "It has got
+     eucalyptus extract," she said. "It works best if you rub it into your
+     chest." And then she tried to take off my nightshirt. I whacked her with my
+     pillow. And that got rid of her. Chico brought me a little flower in a cup.
+     It had been growing in a little bit of earth that probably found its way on
+     board stuck to something else. "I found this on the deck. Here, you can
+     have it." He tried to act nonchalant, but I'm pretty sure he's got a crush
+     on me. None of them understand. If they thought these little visits would
+     cheer me up, they were wrong. Tonight, Snake himself came to my room. Like
+     the rest, he believes I am just a schoolgirl, and treats me as such. "Why
+     did you abandon your country," I asked him. "Why create the MSF?" Of
+     course, I knew the answers already. But I wanted to hear it from him. As I
+     had imagined, he was not exactly forthcoming. All he would say is that his
+     country abandoned him because all he could do was fight. And that is why he
+     needed the MSF - because that is all he is any good for. Then he said,
+     "Fighting is the only thing I understand. But that does not mean I have got
+     a grudge against those who believe in peace." I am not one of them, and I
+     do not believe in peace. Conflict is in man's nature. We fight our enemies
+     in order to survive. Maybe we're> not so different after all, he and I. But
+     that is exactly why I am going to have to kill him. Or else he will have to
+     kill me. When I stop and think about this wretched existence, being killed
+     by a man like that suddenly does not seem like such a bad thing.
+
+
+[PDI07] Paz's 7th Diary Entry
+–----------------------------
+PAZ: Every month, Mother Base throws a party for all the soldiers whose
+     birthdays fall in that month. There's something strange about a military
+     organization having parties. Really, though, it is just an excuse to drink
+     and make noise. It is not easy to get alcohol on a fortress in the middle
+     of the ocean. Most days they are training from dawn till dusk. They do not
+     have time for things like drinking. That is why Snake and Miller came up
+     with the idea - to give everyone a chance to let loose. Obviously, a bunch
+     of boors like that are not going to bother with blowing out candles on a
+     cake. Rather, they sit there in a cloud of cigarette smoke, drink beer, eat
+     meat, tell tasteless jokes and swap crude insults about one another's
+     hometowns. But it hardly ever breaks out into something serious. They talk
+     up a storm, but they're just having fun. It is funny. You <have|'ve> got
+     members of FSLN rubbing shoulders with the UCLAs. People who once would
+     have considered the other mortal enemies. I wonder if that is what makes
+     Big Boss so popular. In leaving their countries behind, they leave their
+     hatred for other countries, too. Miller seemed a little protective of me.
+     "Hope they're not being too crude," he said. But soon enough he too was
+     drunk. He yelled, "C'mere and take a look at the REAL Kazuhira Miller!"
+     then dropped his pants and mooned everybody. The other soldiers burst out
+     laughing. I have never seen such a crude, ridiculous party before. And
+     yet... All these people, laughing and acting the fool - is this what they
+     call peace? For some reason, I began to think about all that has happened
+     since I came here. Fishing with Chico, cooking with Amanda and Cecile,
+     playing soccer, having visitors when I caught a cold... When I stop and
+     think about it, my time here has been the most peaceful of my life. But
+     that is about to end. I cannot imagine he <will|'ll> be willing to
+     negotiate. It seems I am to fight the legendary Big Boss. I do <not|n't>
+     know if I'll be able to beat him, but if I have to choose between death and
+     defying Cipher, I will gladly choose death. The thought of dying does not
+     scare me. But if I disobey my orders, the fear and despair awaiting me will
+     be far worse than anything I can imagine. It was Cipher who took me in as
+     an orphan - gave me food and a place to live. His orders may have been
+     unreasonable, but I will never repay my debt entirely. It seems I have no
+     choice. I must fight this man... I must fight Snake.
+
+
+[PDI08] Paz's 8th Diary Entry
+–----------------------------
+PAZ: D'you know Miller, Snake's right hand man? Apparently he's got at least one
+     serious weakness. He is an insatiable womanizer. He does not bother me,
+     most likely because he considers teenagers off limits. But he has hit on
+     every single one of the few female solders here at Mother Base. They ought
+     to be telling him where to stick it, but end up falling for it so easily. I
+     think some of it stems from the fact that he is actually not that bad
+     looking. Anyway, today that nasty habit got him in trouble. He and Snake
+     got into one of their rare fights, and I was there to see it. They burst
+     out of the showers, completely naked, trading punches. I am no child - the
+     sight of a naked man does <notn't> make me blush. But this was something
+     else. "Maybe this'll teach you!" Snake yelled as he slammed his fists into
+     Miller's chest. I heard later that apparently he'd been two-timing
+     someone... and that same someone had gone to Snake with her troubles. As I
+     see it, it is her own fault for letting herself be deceived like that. If
+     she's too dumb to see though Miller's lies, then she got what she deserved.
+     But this was not the first time it had happened, or the second, and Snake
+     read Miller the riot act. Miller argued back, and what began as a shouting
+     match turned into a fistfight. "You son of a bitch!" Miller yelled as he
+     swung. "Not bad," said Snake, smiling. "But not good enough!" And then he
+     was back on the offensive. They had already been at it pretty hard in the
+     showers, and their bodies were covered with bruises. Both of these men had
+     been trained for war, their bodies deadly weapons. They were each bleeding
+     from a dozen places. All this from a fistfight. Even so, it was far less
+     gruesome than if they had given it their all. It was obvious that one of
+     them would be dead were they fighting for real. Miller took another swing,
+     yelling, "Try this, then!" Snake parried, then responded in kind. But I
+     could tell he was not aiming for anything vital. "You <are|'re> one tough
+     bastard, Boss..." Miller muttered. A smile crept across his face as he
+     caught his breath. And then they went right on fighting. Blood and sweat
+     flew off their glistening bodies. It was combat without hatred or hostile
+     intent. I'd never seen violence like this before. And yet it was more than
+     just a friendly tussle. They were utilizing every technique they knew. It
+     was not a sporting match - they were not playing by rules. How could they
+     keep this up? At last, the two men tired themselves out, and the bizarre
+     scene came to an end. They looked at each other's battered bodies, and then
+     burst out laughing, embracing and congratulating each other on a good
+     fight. It all seemed so idiotic. I still cannot fathom such behavior. But
+     somehow I got the sense that for all his womanizing, Miller really only
+     trusted one person, and that was Snake. There was no way I could ever come
+     between the two of them. And at that thought I began to feel as if I had
+     lost.
+
+
+[PDI09] Paz's 9th Diary Entry
+–----------------------------
+PAZ: All of Mother Base is preparing for a festival. Since Snake and his
+     soldiers spend so much time fighting, they're setting aside one day a year
+     for peace and relaxation. I do not know all the details, but apparently
+     that is what Snake and Miller decided. The soldiers love the idea, of
+     course. There is so little fun to be had here that everybody looks forward
+     to events like these. That is all well and good, but somehow I got roped
+     into getting on stage... "C'mon, we even both have 'peace' in our names,"
+     said Miller. "And Zadornov - that old Russkie's name has something to do
+     with peace, too, right? "Hey, as long as we're having a day of peace, we
+     ought to get an act together - The Three Peace Band!" I thought he was
+     joking. He then proceeded to share his idea without bothering to check with
+     me, and now I am slated to sing. Apparently, he had heard me on deck one
+     day and since then he's wanted to form a band. Everybody's looking forward
+     to it, so there is no way for me to back out now. I have never done
+     anything like this, but it does feel kind of nice to know that people are
+     looking forward to it. I mean, it cannot be any worse than Miller's
+     singing. But modifications to ZEKE are already finalized, and I must
+     complete my mission. Betray Cipher now, and I will face a fate far worse
+     than death. Still... There's no need to put things in motion just yet. What
+     difference would it make to just wait a little while longer? A whole day of
+     peace... The mission can wait until after that, can it not? I know I am
+     only delaying the inevitable. When the day comes, one of us will have to
+     die - Snake or me. But still... If I could just come up with some way to
+     stall Cipher... at least until our day of peace... When did I start having
+     thoughts like this...?
+
+
+[PDI10] Paz's 10th Diary Entry
+–-----------------------------
+PAZ: My cover is blown! They know nothing of Cipher or my true objective, but
+     they know I am a spy. There's no more time left. I must act now. I must
+     complete my mission... How did it come to this... All I wanted was three
+     more days, just three... Miller's already finished writing the song. It
+     <is|'s> called "Love Deterrent " - it is about a girl who can<not|'t>
+     express her true feelings. I have been practicing. I am no pro, but I was
+     pretty sure I would do a decent job. And now this... Cipher found out that
+     ZEKE was complete. He must have someone inside Mother Base besides me.
+     Spinning his tightly wound web of control, leaving no room for individual
+     will - typical. When they found out ZEKE was complete, I was ordered to
+     execute the operation immediately. If I was going to enjoy just one day of
+     peace, I had to ensure the plan could not move forward. ...I tried to
+     sabotage ZEKE. I thought by damaging the drive system, they would have no
+     choice but to delay their plans... I waited until midnight and then snuck
+     into the hangar. There would be trouble if it looked like sabotage. I
+     selected one of the drive system's load-bearing parts and carefully worked
+     to warp its shape. The legs' drive system requires a high degree of
+     precision to operate. Even the smallest deviation would have done it. Then
+     Chico walked in. Maybe it was one of those nights where he could not sleep.
+     In any case, he saw me, panicked, and took off running. It would have been
+     easy to kill him. But I could not! I know he... likes me. It is not as if I
+     would ever have an interest in a child like him... But I could not pull the
+     trigger. Not at him. Not in the back. Will he tell them? Or is there a
+     chance he will keep it secret? Protect me... ...No. He knows now... Knows I
+     am not who he thought I was... He ran without even questioning what I was
+     doing. There is no chance he does not know. And soon, all I have built here
+     will end. And if Cipher has another agent among them... If he finds out I
+     tried to sabotage ZEKE... This place will no longer be my "heaven." ...Then
+     it is settled. I make my move now. Chico walked in before my sabotage was
+     complete, so ZEKE should still be operational. It might not run at full
+     speed or power, but I do not have time to fix that. Without ZEKE, I do not
+     have a chance in hell of winning. I must act fast before Chico sounds the
+     alarm... I knew it would come to this. I just... did not think it would be
+     so soon... ...It is time, ZEKE. Metal Gear ZEKE, activate!
